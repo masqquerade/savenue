@@ -1,0 +1,23 @@
+.acbtn_container {
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #7D7D7D;
+    width: 45vw;
+    height: 25vh;
+}
+
+.acbtn_content {
+    height: 60%;
+    color: white;
+    display: flex;
+    font-size: small;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.acbtn_content img {
+    width: 40%;
+}

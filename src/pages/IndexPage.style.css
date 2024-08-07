@@ -1,0 +1,10 @@
+.indexPage__container {
+    justify-content: center;
+    margin: 0 1vw 0 1vw;
+}
+
+.active_btn__wrapper {
+    display: flex;
+    margin-top: 2vh;
+    justify-content: space-between;
+}

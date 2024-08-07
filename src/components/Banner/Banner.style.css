@@ -1,0 +1,26 @@
+.banner_container {
+  position: relative;
+  height: 40vh;
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+.banner_container img {
+  width: 100%;
+  height: auto;
+  opacity: 0.7;
+}
+
+.banner_text {
+  font-weight: bolder;
+  font-size:xx-large;
+  width: 70%;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  color: white;
+}
+
+.abtn_wrapper {
+  margin-top: 1.5vh;
+}
