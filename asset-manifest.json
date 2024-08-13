@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/savenue/static/css/main.15b816a1.css",
-    "main.js": "/savenue/static/js/main.54f60453.js",
+    "main.css": "/savenue/static/css/main.3050893f.css",
+    "main.js": "/savenue/static/js/main.b724b378.js",
     "static/media/snakes.jpg": "/savenue/static/media/snakes.3d83cdd474a1d3dbb8a9.jpg",
+    "static/media/gif_time.webp": "/savenue/static/media/gif_time.421c6f132733cc1383e8.webp",
     "static/media/testImg.png": "/savenue/static/media/testImg.903900419376b71f74fa.png",
     "static/media/search.svg": "/savenue/static/media/search.ee54f132c298fef5e1189cd4ca6a7e61.svg",
     "static/media/cart.svg": "/savenue/static/media/cart.4a4bc29787ba219cfeb4b3b0844c5a05.svg",
     "static/media/headphones.svg": "/savenue/static/media/headphones.4ad9066bc997544ba86c97e99d212a14.svg",
     "index.html": "/savenue/index.html",
-    "main.15b816a1.css.map": "/savenue/static/css/main.15b816a1.css.map",
-    "main.54f60453.js.map": "/savenue/static/js/main.54f60453.js.map"
+    "main.3050893f.css.map": "/savenue/static/css/main.3050893f.css.map",
+    "main.b724b378.js.map": "/savenue/static/js/main.b724b378.js.map"
   },
   "entrypoints": [
-    "static/css/main.15b816a1.css",
-    "static/js/main.54f60453.js"
+    "static/css/main.3050893f.css",
+    "static/js/main.b724b378.js"
   ]
 }
