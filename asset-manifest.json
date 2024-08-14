@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/savenue/static/css/main.b5490b4f.css",
-    "main.js": "/savenue/static/js/main.91a9dc04.js",
+    "main.css": "/savenue/static/css/main.5482135a.css",
+    "main.js": "/savenue/static/js/main.e71e13f5.js",
     "static/media/snakes.jpg": "/savenue/static/media/snakes.3d83cdd474a1d3dbb8a9.jpg",
     "static/media/gif_time.webp": "/savenue/static/media/gif_time.421c6f132733cc1383e8.webp",
     "static/media/testImg.png": "/savenue/static/media/testImg.903900419376b71f74fa.png",
@@ -9,11 +9,11 @@
     "static/media/cart.svg": "/savenue/static/media/cart.4a4bc29787ba219cfeb4b3b0844c5a05.svg",
     "static/media/headphones.svg": "/savenue/static/media/headphones.4ad9066bc997544ba86c97e99d212a14.svg",
     "index.html": "/savenue/index.html",
-    "main.b5490b4f.css.map": "/savenue/static/css/main.b5490b4f.css.map",
-    "main.91a9dc04.js.map": "/savenue/static/js/main.91a9dc04.js.map"
+    "main.5482135a.css.map": "/savenue/static/css/main.5482135a.css.map",
+    "main.e71e13f5.js.map": "/savenue/static/js/main.e71e13f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5490b4f.css",
-    "static/js/main.91a9dc04.js"
+    "static/css/main.5482135a.css",
+    "static/js/main.e71e13f5.js"
   ]
 }
