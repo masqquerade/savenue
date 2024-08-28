@@ -6,13 +6,16 @@ interface IActiveBtn {
     icon: string;
     title: string;
     bgColor: string;
+    clickHandler: () => void;
 };
 
-const ActiveBtn: FC<IActiveBtn> = ({ icon, title, bgColor }) => {
+const ActiveBtn: FC<IActiveBtn> = ({ icon, title, bgColor, clickHandler }) => {
     return (
-        <div className="acbtn_container" style={{"backgroundColor": bgColor}}>
+        <div className="acbtn_container" style={{"backgroundColor": bgColor}} onClick={clickHandler}>
             <div className="acbtn_content">
-                <img src={icon}/>
+                <div className="img_wrapper">
+                    <img src={icon}/>
+                </div>
                 <div className="title_wrapper">
                     { title }
                 </div>

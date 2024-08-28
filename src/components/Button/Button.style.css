@@ -1,0 +1,17 @@
+.btn_wrapper {
+    color: white;
+    display: flex;
+    width: 100%;
+}
+
+.content_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #181818;
+    border: 1px solid #7D7D7D;
+    font-weight: 600;
+    height: 10vh;
+    width: 50vw;
+    border-radius: 10px;
+}

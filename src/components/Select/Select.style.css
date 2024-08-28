@@ -1,0 +1,13 @@
+*:focus {
+    outline: none;
+}
+
+select {
+    background-color: #131313;
+    width: 33%;
+    color: white;
+    font-family: montserrat;
+    height: 5vh;
+    border: none;
+    border-radius: 5px;
+}

@@ -1,0 +1,38 @@
+.info_wrapper {
+    margin: 0 2vw 0 2vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    word-break:normal;
+    text-align: center;
+}
+
+.info_title {
+    color: white;
+    background-color: #181818;
+    padding: 2vw;
+    border-radius: 15px;
+    border: 1px solid #7D7D7D;
+    filter: drop-shadow(0 0 20px #3e4044);
+}
+
+.info_desc {
+    text-align: center;
+    height: 50%;
+    margin: 5vh 0 0 0;
+    color: white;
+    font-size: larger;
+}
+
+.btn_wrapper {
+    margin: 3vh 0 3vh 0;
+    display: flex;
+    justify-content: center;
+}
+
+.gif_wrapper {
+    width: 100%;
+    display: flex;  
+    justify-content: center;
+}

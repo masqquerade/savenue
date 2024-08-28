@@ -1,0 +1,32 @@
+.input:focus {
+    outline: none;
+}
+
+.input_wrapper {
+    filter: drop-shadow(0 2px 2px rgb(0, 0, 0));
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.input_wrapper img {
+    background-color: #1A1A1A;
+    padding: 0 2vw 0 2.5vw;
+    border-radius: 10px 0 0 10px;
+}
+
+.input {
+    border: none;
+    font-size: larger;
+    color: white;
+    background-color: #1A1A1A;
+    width: 90vw;
+    height: 7vh;
+    border-radius: 0 10px 10px 0;
+}
+
+.sort_menu_wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vh;
+}

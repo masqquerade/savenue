@@ -18,6 +18,10 @@
     align-items: center;
 }
 
-.acbtn_content img {
-    width: 40%;
+.img_wrapper {
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

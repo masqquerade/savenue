@@ -1,0 +1,20 @@
+.products_block  {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 70vh;
+    justify-content: space-between;
+}
+
+.products_block div {
+    width: fit-content;
+    height: fit-content
+}
+
+.nothing_wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+    color: white;
+    font-weight: 500;
+    width: 100%;
+}
